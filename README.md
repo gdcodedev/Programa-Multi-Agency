@@ -24,3 +24,6 @@
     private Double latitude;
     private Double longitude;
 
+![img1](https://user-images.githubusercontent.com/65917790/96030475-6cb6b900-0e32-11eb-83d4-e6060b2c2ca4.jpeg)
+![img2](https://user-images.githubusercontent.com/65917790/96030481-6de7e600-0e32-11eb-8fb2-d37229ef8455.jpeg)
+![img3](https://user-images.githubusercontent.com/65917790/96030488-6e807c80-0e32-11eb-9a5f-424a6ad35c8b.jpeg)
