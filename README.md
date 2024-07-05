@@ -1,4 +1,4 @@
-# Introdução do Crud Sinapsis
+# Introdução do Crud
 - Criando um Crud para execução do projeto
 - Utilizando Spring Boot e Clean
 - SGBD utilizado MySQL 8.0
